@@ -16,9 +16,9 @@ email_config = dict(
     host='smtp.gmail.com',
     port=468,
     tls=True,
-    user='ezechivin12@gmail.com',
-    password='asimvin123',
-    from_name="Chimere's Mini Project",
+    user='email username',
+    password='email password',
+    from_name="Delight's Mini Project",
     encoding='utf-8'
 )
 
